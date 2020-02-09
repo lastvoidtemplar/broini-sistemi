@@ -1,0 +1,7 @@
+C:\Users\KK7-3\source\repos\Ot_deseti4na_broina_sistema_v_p-i`na\Ot_deseti4na_broina_sistema_v_p-i`na\bin\Debug\Ot_deseti4na_broina_sistema_v_p-i`na.exe.config
+C:\Users\KK7-3\source\repos\Ot_deseti4na_broina_sistema_v_p-i`na\Ot_deseti4na_broina_sistema_v_p-i`na\bin\Debug\Ot_deseti4na_broina_sistema_v_p-i`na.exe
+C:\Users\KK7-3\source\repos\Ot_deseti4na_broina_sistema_v_p-i`na\Ot_deseti4na_broina_sistema_v_p-i`na\bin\Debug\Ot_deseti4na_broina_sistema_v_p-i`na.pdb
+C:\Users\KK7-3\source\repos\Ot_deseti4na_broina_sistema_v_p-i`na\Ot_deseti4na_broina_sistema_v_p-i`na\obj\Debug\Ot_deseti4na_broina_sistema_v_p-i`na.csprojAssemblyReference.cache
+C:\Users\KK7-3\source\repos\Ot_deseti4na_broina_sistema_v_p-i`na\Ot_deseti4na_broina_sistema_v_p-i`na\obj\Debug\Ot_deseti4na_broina_sistema_v_p-i`na.csproj.CoreCompileInputs.cache
+C:\Users\KK7-3\source\repos\Ot_deseti4na_broina_sistema_v_p-i`na\Ot_deseti4na_broina_sistema_v_p-i`na\obj\Debug\Ot_deseti4na_broina_sistema_v_p-i`na.exe
+C:\Users\KK7-3\source\repos\Ot_deseti4na_broina_sistema_v_p-i`na\Ot_deseti4na_broina_sistema_v_p-i`na\obj\Debug\Ot_deseti4na_broina_sistema_v_p-i`na.pdb
